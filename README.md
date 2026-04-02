@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mernrehandev-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="mernrehandev-cloud" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mernrehandev-cloud" alt="mernrehandev-cloud" /></a> </p>
-
-- Working on [Sonygram (Full-Stack AI Music & Community Platform)](https://sonygram.ai/)
+- 🔭 Working on [Sonygram (Full-Stack AI Music & Community Platform)](https://sonygram.ai/)
 
 - 🌱 I’m currently learning **DSA, DevOps(AWS, Docker), CI/CD**
 
-- Managing [Sonygram Admin Panel](https://admin.sonygram.com/)
+- 💪 Managing [Sonygram Admin Panel](https://admin.sonygram.com/)
 
 - 👨‍💻 All of my projects are available at [portfolio link]
 
